@@ -16,3 +16,5 @@ let arr: number[] = []
 arr?.[0]
 
 // Optional Call access operator
+let log: any = null
+log?.('a')
